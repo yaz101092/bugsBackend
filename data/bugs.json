@@ -1,0 +1,36 @@
+[
+    {
+        "_id": "ghi789",
+        "title": "Broken image link on homepage",
+        "severity": 2,
+        "createdAt": 1712952000000,
+        "description": "The hero image on the homepage is missing or returns a 404."
+    },
+    {
+        "_id": "jkl123",
+        "title": "Search results not updating",
+        "severity": 5,
+        "createdAt": 1712953000000
+    },
+    {
+        "_id": "mno456",
+        "title": "Logout does not clear session",
+        "severity": 4,
+        "createdAt": 1712954000000,
+        "description": "User remains logged in after clicking logout. Session persists."
+    },
+    {
+        "_id": "pqr789",
+        "title": "Modal stays open after route change",
+        "severity": 3,
+        "createdAt": 1712955000000,
+        "description": "Navigating to another page does not close the currently open modal."
+    },
+    {
+        "_id": "stv123",
+        "title": "Data not saved after refresh",
+        "severity": 5,
+        "createdAt": 1712956000000,
+        "description": "Changes made in the form are lost upon page refresh without warning."
+    }
+]

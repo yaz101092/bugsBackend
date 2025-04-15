@@ -1,0 +1,51 @@
+[
+    {
+      "_id": "abc123",
+      "title": "Login button not responding",
+      "severity": 4,
+      "createdAt": 1712950000000,
+      "description": "Clicking the login button does nothing. No API call is made."
+    },
+    {
+      "_id": "def456",
+      "title": "Page crashes on form submit",
+      "severity": 5,
+      "createdAt": 1712951000000,
+      "description": "Submitting a form with empty fields causes the app to crash."
+    },
+    {
+      "_id": "ghi789",
+      "title": "Broken image link on homepage",
+      "severity": 2,
+      "createdAt": 1712952000000,
+      "description": "The hero image on the homepage is missing or returns a 404."
+    },
+    {
+      "_id": "jkl123",
+      "title": "Search results not updating",
+      "severity": 3,
+      "createdAt": 1712953000000,
+      "description": "Typing in the search bar does not trigger a new search request."
+    },
+    {
+      "_id": "mno456",
+      "title": "Logout does not clear session",
+      "severity": 4,
+      "createdAt": 1712954000000,
+      "description": "User remains logged in after clicking logout. Session persists."
+    },
+    {
+      "_id": "pqr789",
+      "title": "Modal stays open after route change",
+      "severity": 3,
+      "createdAt": 1712955000000,
+      "description": "Navigating to another page does not close the currently open modal."
+    },
+    {
+      "_id": "stv123",
+      "title": "Data not saved after refresh",
+      "severity": 5,
+      "createdAt": 1712956000000,
+      "description": "Changes made in the form are lost upon page refresh without warning."
+    }
+  ]
